@@ -1,6 +1,6 @@
 # mysql_crud
 
-mysql_crud est une application flutter, plus precisement un blog.
+mysql_crud est une application flutter, plus precisement un blog réalisé le serveur local XAMP et le SGBD Mysql.
 
 ## Getting Started
 
