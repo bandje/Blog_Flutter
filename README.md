@@ -1,6 +1,6 @@
 # mysql_crud
 
-A new Flutter application.
+mysql_crud est une application flutter ,plus precisement blog.
 
 ## Getting Started
 
